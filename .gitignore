@@ -2,3 +2,7 @@ news_tokens.csv
 frequency_vectors.npz
 inverse_frequency_vectors.npz
 news.json
+inverse_frequency_vectors_10000.npz
+frequency_vectors_10000.npz
+logistic_regression_model.pkl
+random_forest_model.pkl
