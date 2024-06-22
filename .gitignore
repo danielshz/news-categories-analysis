@@ -6,3 +6,4 @@ inverse_frequency_vectors_10000.npz
 frequency_vectors_10000.npz
 logistic_regression_model.pkl
 random_forest_model.pkl
+neural_network_model.pkl
